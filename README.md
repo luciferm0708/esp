@@ -36,8 +36,8 @@ This setup is ideal for home automation, security systems, and IoT-based monitor
 | 🔲 ESP32 Dev Board     | 2        | One for Transmitter, one for Receiver     |
 | 👁️ PIR Sensor (HC-SR501)| 1        | Detects human motion                      |
 | 💡 LED                | 1        | Visual motion alert on transmitter        |
-| 🔌 Jumper Wires        | As needed | Electrical connections                    |
-| ⛏️ Breadboard (Optional)| 1        | Rapid prototyping                         |
+| 🔌 Wires        | As needed | Electrical connections                    |
+| ⛏️ Veroboard | 2        | Rapid prototyping                         |
 
 ---
 
