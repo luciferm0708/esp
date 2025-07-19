@@ -1,7 +1,7 @@
 # 🔧 ESP-NOW Motion Detection System with PIR Sensor
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YTBj5drpNZF04/giphy.gif" width="250" alt="Motion Sensor Animation"/>
+  <img src="https://media.giphy.com/media/3oEjI5VtIhHvK37WYo/giphy.gif" width="250" alt="Motion Sensor Animation"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/PIR_motion_detector_module.jpg/640px-PIR_motion_detector_module.jpg" width="250" alt="PIR Sensor"/>
   <br>
   <strong>⚡️ Wireless Motion Detection using ESP32 + PIR + ESP-NOW</strong>
